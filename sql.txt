@@ -1,0 +1,39 @@
+INSERT INTO products (product_name) VALUES ('Laptop');
+INSERT INTO products (product_name) VALUES ('Mobile');
+INSERT INTO products (product_name) VALUES ('Sports');
+INSERT INTO products (product_name) VALUES ('Vehicles');
+
+
+
+
+
+
+INSERT INTO product_sub_categories (title, description, price, product_id) VALUES ('Lenovo Thinkpad', 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.', '2000', 1);
+
+INSERT INTO product_sub_categories (title, description, price, product_id) VALUES ('Mac Mini', 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.', '5000', 1);
+
+INSERT INTO product_sub_categories (title, description, price, product_id) VALUES ('Samsung Galaxy S10', 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.', '300', 2);
+
+
+INSERT INTO product_sub_categories (title, description, price, product_id) VALUES ('Samsung Galaxy Note 20 Ultra', 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.', '500', 2);
+
+
+INSERT INTO product_sub_categories (title, description, price, product_id) VALUES ('Hockey', 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.', '300', 3);
+
+
+INSERT INTO product_sub_categories (title, description, price, product_id) VALUES ('American Baseball', 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.', '200', 3);
+
+
+
+INSERT INTO product_sub_categories (title, description, price, product_id) VALUES ('BMW', 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.', '9000', 4);
+
+
+
+INSERT INTO product_sub_categories (title, description, price, product_id) VALUES ('Honda', 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.', '6000', 4);
+
+
+
+
+
+
+
